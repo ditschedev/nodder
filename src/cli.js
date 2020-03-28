@@ -37,6 +37,7 @@ async function promptAction(options) {
         name: 'action',
         message: 'Please choose an action',
         choices: [
+            'init',
             'create:model', 
             'create:controller', 
             'create:middleware',
