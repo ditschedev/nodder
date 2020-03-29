@@ -22,6 +22,7 @@
     "execa": "^4.0.0",
     "inquirer": "^7.1.0",
     "listr": "^0.14.3",
+    "mustache": "^4.0.1",
     "pkg-install": "^1.0.0"
   },
   "files": [
